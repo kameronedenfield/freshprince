@@ -1,0 +1,16 @@
+.site-title > a {
+	color: purple;
+	font-family: Garamond;
+	font-weight: bold;
+}
+
+body {
+	background-color: pink; 
+}
+
+p {
+	font-size: 30px;
+	font-family: Garamond;
+	color:black;
+
+}
